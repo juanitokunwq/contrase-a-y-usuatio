@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m “Mi primer commit”
+git remote add origin https://github.com/juanitokunwq/contrase-a-y-usuario.git
+git push origin master
